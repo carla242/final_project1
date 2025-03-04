@@ -1,0 +1,27 @@
+
+.carousel{
+    max-width: 100%;
+    height: 600PX;
+}
+
+.carousel-inner{
+    height: 100;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.title.span.title.span.first-word{
+    color: orange;
+}
+
+.title.span.title.span.Second-word{
+    color: white;
+}
+
+.button{
+    color:orange;
+}
